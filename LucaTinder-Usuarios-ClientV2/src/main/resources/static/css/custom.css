@@ -1,0 +1,25 @@
+#jumbo {
+	background-image: url("../img/fondo.jpg");
+	background-attachment: fixed;
+	background-size: 100%;
+	padding-top: 120px;
+	padding-bottom: 120px;
+	margin-bottom: 1%;
+	box-shadow: 1px 1px 10px 1px red;
+}
+
+h1{
+	color:white;
+	font-size: 55px !important;
+	font-weight: bold;
+	font-family: "Lucida Console", "Courier New", monospace;
+	
+}
+
+h2{
+	color:white;
+	font-size: 40px !important;
+	font-weight: bold;
+	font-family: "Lucida Console", "Courier New", monospace;
+	
+}
